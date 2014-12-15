@@ -9,3 +9,4 @@ Grub.prototype.eat = function() {
 
 };
 
+Grub.prototype.constructor=Grub;
